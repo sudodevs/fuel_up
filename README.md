@@ -1,12 +1,12 @@
 # fuel_up Fuel Management 
 
-> fuel up bitch!
 
 > What do we want
 ---
 
   * Calculate fuel usage when driving 
   * prompt the user to refill 
+
 
 > Features
 ---
@@ -23,8 +23,8 @@
   * support diff vehicle types 
   * handle cases where user is not riding 
   * prompt user to save the ride  
-			    
-			    
+
+
 > Implementation
 ---
 
@@ -33,7 +33,6 @@
   * Prompt user when fuel is about to complete 
 
 
-				   
 > UI 
 ---
 
